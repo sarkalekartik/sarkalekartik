@@ -33,12 +33,7 @@
 - 📧 Email: [sarkalekartik42@gmail.com](mailto:sarkalekartik42@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/sarkalekartik](https://linkedin.com/in/sarkalekartik) 
 
----
-
-## 😄 Pronouns:
-
----
-
+--
 ## ⚡ Fun Fact:
 
 ---
