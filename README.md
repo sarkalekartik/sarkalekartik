@@ -57,6 +57,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Im+building+cool+Python+projects!;Let's+connect+%F0%9F%92%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+building+cool+Python+projects!;Let's+connect+%F0%9F%92%AC" alt="Typing SVG" />
 </p>
 
