@@ -31,7 +31,7 @@
 
 ## 📫 How to Reach Me:
 - 📧 Email: [sarkalekartik42@gmail.com](mailto:sarkalekartik42@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/sarkalekartik](https://linkedin.com/in/sarkalekartik) *(optional)*
+- 🔗 LinkedIn: [linkedin.com/in/sarkalekartik](https://linkedin.com/in/sarkalekartik) 
 
 ---
 
