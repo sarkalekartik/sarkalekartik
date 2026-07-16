@@ -91,3 +91,100 @@
 <img src="https://img.shields.io/badge/Windsurf-0A84FF?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarkalekartik&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarkalekartik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkalekartik&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarkalekartik&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarkalekartik&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sarkalekartik&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
+
+---
+
+# 📊 Contributor Statistics
+
+<p align="center">
+  <img width="80%" src="https://github-contributor-stats.vercel.app/api?username=sarkalekartik&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+# 📋 GitHub Summary Cards
+
+<p align="center">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarkalekartik&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarkalekartik&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarkalekartik&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+<p align="center">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarkalekartik&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarkalekartik&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarkalekartik&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 GitHub Metrics
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarkalekartik&theme=github_dark"/>
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sarkalekartik&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/sarkalekartik?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/sarkalekartik?affiliations=OWNER&style=for-the-badge"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **Requires GitHub Actions**
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/sarkalekartik/sarkalekartik/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 💻 Coding Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sarkalekartik&theme=tokyonight"/>
+</p>
