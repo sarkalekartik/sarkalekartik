@@ -7,12 +7,9 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=120&lines=🚀+Full-Stack+Developer;🤖+AI+%26+Machine+Learning;🛡️+Cybersecurity+Enthusiast;🌐+Networking+Learner;☁️+Cloud+%26+DevOps;⚡+Building+AI-Powered+Applications" />
-</p>
-
-<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
+
 ## 💻 Programming Languages
 
 <p>
@@ -92,19 +89,5 @@
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Windsurf-0A84FF?style=for-the-badge"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarkalekartik&theme=tokyonight"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarkalekartik&theme=tokyo-night"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sarkalekartik&theme=tokyonight&row=2&column=4"/>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=sarkalekartik"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sarkalekartik&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarkalekartik&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarkalekartik&layout=compact&theme=tokyonight"/>
 
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
