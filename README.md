@@ -52,50 +52,26 @@
 <img src="https://skillicons.dev/icons?i=linux,kali,bash"/>
 </p>
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/> <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge"/>
 
 ---
 
 ## 🌐 Networking
 
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco"/>
-
-<img src="https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DNS-0066CC?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HTTP-0078D4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Linux%20Networking-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco"/> <img src="https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge"/> <img src="https://img.shields.io/badge/DNS-0066CC?style=for-the-badge"/> <img src="https://img.shields.io/badge/HTTP-0078D4?style=for-the-badge"/> <img src="https://img.shields.io/badge/Linux%20Networking-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 ---
 
 ## 🤖 AI Tools
 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-7B3FE4?style=for-the-badge"/> <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google"/>
 
-<img src="https://img.shields.io/badge/Claude-7B3FE4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google"/>
-
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot"/>
-
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Windsurf-0A84FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot"/> <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Windsurf-0A84FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarkalekartik&theme=tokyonight"/>
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SarkaleKartik&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -103,9 +79,9 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkalekartik&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarkalekartik&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 ---
 
@@ -119,17 +95,17 @@
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sarkalekartik&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
+</p> -->
 
 ---
 
 # 📊 Contributor Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img width="80%" src="https://github-contributor-stats.vercel.app/api?username=sarkalekartik&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
+</p> -->
 
 ---
 
@@ -178,13 +154,13 @@
 > **Requires GitHub Actions**
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/sarkalekartik/sarkalekartik/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<!-- <img src="https://raw.githubusercontent.com/sarkalekartik/sarkalekartik/output/github-contribution-grid-snake-dark.svg"/>
+</p> -->
 
 ---
 
 # 💻 Coding Activity
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sarkalekartik&theme=tokyonight"/>
-</p>
+</p> -->
