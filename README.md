@@ -1,116 +1,81 @@
-<h1 align="center">Hi 👋, I'm Kartik Sarkale</h1>
-<h3 align="center">🚀 Full-Stack Developer | AI & Machine Learning Enthusiast | Open Source Contributor</h3>
+## 💻 Programming Languages
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Modern+Web+Applications;Open+Source+Contributor;Always+Learning+New+Technologies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarkalekartik&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/sarkalekartik?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/sarkalekartik?affiliations=OWNER&style=for-the-badge" />
-</p>
-
----
-
-# 💫 About Me
-
-🎓 B.Tech Student passionate about technology and innovation.
-
-💻 I build modern, scalable, and AI-powered web applications.
-
-🤖 Interested in Artificial Intelligence, Machine Learning, Automation, and Generative AI.
-
-🚀 Experienced in developing business websites, startup projects, AI chatbots, and full-stack applications.
-
-🌱 Always learning new technologies and contributing to real-world projects.
-
----
-
-# 🚀 Tech Stack
-
-### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,html,css,bash"/>
 </p>
 
-### Backend
+## ⚡ Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,firebase" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,redux"/>
 </p>
 
-### Database
+## 🔥 Backend
+
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
 </p>
 
-### AI / ML
+## 🗄 Database
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase"/>
 </p>
 
-### Tools
+## 🤖 Artificial Intelligence
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,docker,postman" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv"/>
 </p>
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,firebase"/>
+</p>
+
+## 🛡️ Cybersecurity
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali,bash"/>
+</p>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge"/>
 
 ---
 
-# 🌟 Featured Projects
+## 🌐 Networking
 
-- 🤖 AI Voice Assistant
-- 🎨 Artistry Hub – AI Handmade Marketplace
-- 🌾 Smart Farming AI Platform
-- 🛒 E-Commerce Web Applications
-- 📚 College Management System
-- 💬 AI Chatbots
-- 🌐 Portfolio Websites
-- 🔥 Startup Web Applications
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco"/>
 
----
+<img src="https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge"/>
 
-# 📊 GitHub Statistics
+<img src="https://img.shields.io/badge/DNS-0066CC?style=for-the-badge"/>
 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sarkalekartik&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/HTTP-0078D4?style=for-the-badge"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkalekartik&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarkalekartik&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://img.shields.io/badge/Linux%20Networking-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🤖 AI Tools
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sarkalekartik&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Claude-7B3FE4?style=for-the-badge"/>
 
-# 🌐 Connect With Me
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google"/>
 
-<p align="left">
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot"/>
 
-📧 Email: **sarkalekartik42@gmail.com**
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
 
-💼 LinkedIn: **https://linkedin.com/in/sarkalekartik**
+<img src="https://img.shields.io/badge/Windsurf-0A84FF?style=for-the-badge"/>
 
-🌍 Portfolio: **https://your-portfolio.vercel.app**
-
-</p>
-
----
-
-# 💡 Quote
-
-> **"Code. Create. Innovate. Repeat." 🚀**
-
----
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&center=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!;Let's+Build+Something+Amazing+Together!" />
-</p>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
